@@ -15,3 +15,11 @@ WECRLTEERDSOEEFEAOCAIVDEN
 * Convert your script to NodeJS
 * Write an encode function were you can specify the number of rails you want
 * Write a decode function
+
+y       o
+  e   l   w
+    l
+
+0       4
+  1   3   5
+    2
